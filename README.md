@@ -1,2 +1,2 @@
-# hello-world
+hello, my name is Debbie.  I enjoy working with code and have, in the past briefly worked with and promptly forgotten several computer languages.   My goal is to see if coding is my passion job.  I want to work from home as to take care of my dogs; i do not like leaving them alone all day.  I hope to find something new and exciting to do for income.# hello-world
 My first coding project on my way to hopefully finding my work passion.
